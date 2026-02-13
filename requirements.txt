@@ -1,0 +1,2 @@
+﻿anthropic>=0.40.0
+gradio>=5.48.0
